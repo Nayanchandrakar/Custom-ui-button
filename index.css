@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+*{
+    background-color: black;
+}
+
+.color{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+}
+
+.custom_translate0{
+    transform: translateX(0rem);
+}
+.custom_translate1{
+    transform: translateX(8rem);
+}
+.custom_translate2{
+    transform: translateX(16rem);
+}
+.custom_translate3{
+    transform: translateX(24rem);
+}
+.custom_translate4{
+    transform: translateX(32rem);
+}
+.custom_translate5{
+    transform: translateX(40rem);
+}
+.custom_translate6{
+    transform: translateX(48rem);
+}
+
