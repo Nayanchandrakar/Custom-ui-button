@@ -7,7 +7,7 @@ const App = () => {
   }
 
   return (
-  <Home data={['nayan','nihal','this']} validation={checkquery} />
+  <Home data={['blank','label','this']} validation={checkquery} />
   )
 }
 
